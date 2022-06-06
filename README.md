@@ -20,12 +20,12 @@ Computer Engineer  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <div align=center>
     <a href="https://github.com/osmansirakaya/github-readme-streak-stats" title="Go to Source">
       <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=osmansirakaya&theme=algolia&hide_border=true&fire=DD2727&stroke=DD2727"/>
-    </a>
+    </a><br></br>
     <a href="https://github.com/osmansirakaya/github-readme-stats" title="Go to Source">
       <img align="center"  src="https://github-readme-stats.vercel.app/api?username=osmansirakaya&show_icons=true&theme=algolia&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br>
+  <br><br><br><br><br
   
   ## 
   
