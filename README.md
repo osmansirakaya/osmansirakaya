@@ -12,8 +12,6 @@ Computer Engineer  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=osmansirakaya&theme=algolia&column=3&row=2&margin-w=20&margin-h=15)](https://github.com/osmansirakaya/github-profile-trophy) 
 
- 
-
   ## 
 </div>
 <p align=center>
@@ -25,12 +23,9 @@ Computer Engineer  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
       <img align="center"  src="https://github-readme-stats.vercel.app/api?username=osmansirakaya&show_icons=true&theme=algolia&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br
   
   ## 
-  
   <img src="https://activity-graph.herokuapp.com/graph?username=osmansirakaya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<br>
 
 ## 🛠  Technologies and tools
 .<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -40,7 +35,7 @@ Computer Engineer  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
