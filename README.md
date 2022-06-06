@@ -19,10 +19,10 @@ Computer Engineer  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <p align=center>
   <div align=center>
     <a href="https://github.com/osmansirakaya/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=400 src="http://github-readme-streak-stats.herokuapp.com?user=osmansirakaya&theme=algolia&hide_border=true&fire=DD2727&stroke=DD2727"/>
+      <img align="left" width=300 src="http://github-readme-streak-stats.herokuapp.com?user=osmansirakaya&theme=algolia&hide_border=true&fire=DD2727&stroke=DD2727"/>
     </a>
     <a href="https://github.com/osmansirakaya/github-readme-stats" title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=osmansirakaya&show_icons=true&theme=algolia&border_color=61dafb&hide_border=true" />
+      <img align="right" width=300 src="https://github-readme-stats.vercel.app/api?username=osmansirakaya&show_icons=true&theme=algolia&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
