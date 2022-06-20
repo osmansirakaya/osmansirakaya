@@ -1,31 +1,14 @@
-<div align="center">
-Computer Engineer  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> 
- 
 
-</em></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmansirakaya&langs_count=15&layout=compact&theme=algolia)](https://github.com/osmansirakaya/github-readme-stats)
+## Computer Engineer  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> 
 
+<a href="https://github.com/osmansirakaya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=osmansirakaya&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a><a href="https://github.com/osmansirakaya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmansirakaya&bg_color=0d1117&theme=algolia&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
 
+## 
 
- ## 
- 🏆 GitHub Profile Trophy 🏆
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=osmansirakaya&theme=algolia&column=3&row=2&margin-w=20&margin-h=15)](https://github.com/osmansirakaya/github-profile-trophy) 
-
-  ## 
-</div>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/osmansirakaya/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=osmansirakaya&theme=algolia&hide_border=true&fire=DD2727&stroke=DD2727"/>
-    </a><br></br>
-    <a href="https://github.com/osmansirakaya/github-readme-stats" title="Go to Source">
-      <img align="center"  width="60%" src="https://github-readme-stats.vercel.app/api?username=osmansirakaya&show_icons=true&theme=algolia&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=osmansirakaya&theme=darkhub&column=3&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/osmansirakaya/github-profile-trophy)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=osmansirakaya&width=100%&theme=github-dark-blue&hide_border=true&fire=DD2727&sideNums=DDD9D9&currStreakLabel=DDDDDD&dates=DDDDDD&sideLabels=DDDDDD&ring=DDDD31&border=DDDD31&)](https://git.io/streak-stats)
   
   ## 
-  <img src="https://activity-graph.herokuapp.com/graph?username=osmansirakaya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=osmansirakaya&theme=react-dark&hide_border=true" width="100%"/>
 
 ## 🛠  Technologies and tools
 .<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
