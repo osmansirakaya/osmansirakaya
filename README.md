@@ -1,6 +1,12 @@
 
 ## Computer Engineer  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> 
 
+<h4 align='left'> 
+<p align='center'>
+  <a href="https://medium.com/@osmansirakaya"><img src="https://img.shields.io/badge/Medium-E4405F?style=for-the-badge&logo=Medium&logoColor=black" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/osmansirakaya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;  
+<a href="mailto:osmansirakaya96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/osmansirakaya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=osmansirakaya&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a><a href="https://github.com/osmansirakaya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmansirakaya&bg_color=0d1117&theme=algolia&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
 
 ## 
