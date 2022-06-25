@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FFDF00?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400"/>
