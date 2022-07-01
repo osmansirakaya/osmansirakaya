@@ -1,5 +1,5 @@
 
-## Computer Engineer & Jr. Software Developer  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> 
+## Computer Engineer & Software Developer  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> 
 
 <h4 align='left'> 
 <p align='center'>
