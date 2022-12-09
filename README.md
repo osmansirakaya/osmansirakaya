@@ -14,7 +14,8 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=osmansirakaya&theme=darkhub&column=3&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/osmansirakaya/github-profile-trophy)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=osmansirakaya&width=100%&theme=github-dark-blue&hide_border=true&fire=DD2727&sideNums=DDD9D9&currStreakLabel=DDDDDD&dates=DDDDDD&sideLabels=DDDDDD&ring=DDDD31&border=DDDD31&)](https://git.io/streak-stats)
   
   ## 
-  <img src="https://activity-graph.herokuapp.com/graph?username=osmansirakaya&theme=react-dark&hide_border=true" width="100%"/>
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=osmansirakaya&bg_color=0d1117&color=f5f6fa&line=39d353&point=0e4429&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛠  Technologies and tools
   
