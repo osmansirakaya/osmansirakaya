@@ -1,4 +1,4 @@
-## Computer Engineer & Software QA Engineer  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> 
+## Computer Engineer & Software QA Engineer
 
 <h4 align='left'>
 <p align='center'>
@@ -27,3 +27,5 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="SQL" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 </div>
+</td><td width="33%">
+</td></tr></table>  
