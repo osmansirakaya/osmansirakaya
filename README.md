@@ -18,14 +18,15 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=osmansirakaya&width=100&theme=github-dark-blue&hide_border=true&fire=DD2727&sideNums=DDD9D9&currStreakLabel=DDDDDD&dates=DDDDDD&sideLabels=DDDDDD&ring=DDDD31&border=DDDD31&)](https://git.io/streak-stats)
 
 ## 🛠 Technologies and tools
-  
+ 
 <div align="left">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original-wordmark.svg" alt="Python" height="50" /></a>
-<a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/selenium-original.svg" alt="Selenium" height="50" /></a>
-<a href="https://robotframework.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/robotframework-original.svg" alt="RobotFramework" height="50" /></a>
-<a href="https://docs.pytest.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytest-original.svg" alt="Pytest" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="SQL" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="50" /></a>
+<a href="https://robotframework.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robotframework/robotframework-original.svg" alt="RobotFramework" height="50" /></a>
+<a href="https://docs.pytest.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>
 </div>
+
 </td><td width="33%">
 </td></tr></table>  
