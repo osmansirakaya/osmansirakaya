@@ -3,8 +3,8 @@
 <a href="https://github.com/osmansirakaya"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=osmansirakaya&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a><a href="https://github.com/osmansirakaya"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=osmansirakaya&bg_color=0d1117&theme=algolia&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
 
 ## 
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=osmansirakaya&theme=darkhub&column=3&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/osmansirakaya/github-profile-trophy)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=osmansirakaya&width=100%&theme=github-dark-blue&hide_border=true&fire=DD2727&sideNums=DDD9D9&currStreakLabel=DDDDDD&dates=DDDDDD&sideLabels=DDDDDD&ring=DDDD31&border=DDDD31&)](https://git.io/streak-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=osmansirakaya&theme=darkhub&column=3&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osmansirakaya&theme=github-dark-blue&hide_border=true&fire=DD2727&sideNums=DDD9D9&currStreakLabel=DDDDDD&dates=DDDDDD&sideLabels=DDDDDD&ring=DDDD31&border=DDDD31)](https://github.com/osmansirakaya)
 ## 
 
 <h3 align="left">Connect with me:</h3>
